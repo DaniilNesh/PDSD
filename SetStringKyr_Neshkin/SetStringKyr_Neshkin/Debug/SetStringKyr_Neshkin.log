@@ -1,0 +1,9 @@
+﻿  SetStringKyr_Neshkin.cpp
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(5,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(6,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\SetStringKyr_Neshkin\SetStringKyr_Neshkin.cpp(59,27): warning C4018: <: несоответствие типов со знаком и без знака
+  SetStringKyr_Neshkin.vcxproj -> C:\Users\mnesh\source\repos\SetStringKyr_Neshkin\Debug\SetStringKyr_Neshkin.exe

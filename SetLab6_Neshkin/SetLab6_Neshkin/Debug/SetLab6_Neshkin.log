@@ -1,0 +1,8 @@
+﻿  SetLab6_Neshkin.cpp
+C:\Users\mnesh\source\repos\SetLab6_Neshkin\SetLab6_Neshkin\SetLab6_Neshkin.cpp(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetLab6_Neshkin\SetLab6_Neshkin\SetLab6_Neshkin.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetLab6_Neshkin\SetLab6_Neshkin\SetLab6_Neshkin.cpp(5,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetLab6_Neshkin\SetLab6_Neshkin\SetLab6_Neshkin.cpp(6,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mnesh\source\repos\SetLab6_Neshkin\SetLab6_Neshkin\SetLab6_Neshkin.cpp(37,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mnesh\source\repos\SetLab6_Neshkin\SetLab6_Neshkin\SetLab6_Neshkin.cpp(55,27): warning C4018: <: несоответствие типов со знаком и без знака
+  SetLab6_Neshkin.vcxproj -> C:\Users\mnesh\source\repos\SetLab6_Neshkin\Debug\SetLab6_Neshkin.exe

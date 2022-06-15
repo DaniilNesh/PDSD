@@ -1,0 +1,3 @@
+﻿  SetLab3_Neshkin.cpp
+C:\Users\mnesh\source\repos\OOP_Set_Neshkin\OOP_Set_Neshkin\SetLab3_Neshkin.cpp(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOP_Set_Neshkin.vcxproj -> C:\Users\mnesh\source\repos\OOP_Set_Neshkin\Debug\OOP_Set_Neshkin.exe
